@@ -96,10 +96,11 @@
                 android:id="@+id/textView6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:foregroundGravity="right"
                 android:layout_weight="0"
+                android:foregroundGravity="right"
                 android:gravity="clip_horizontal|right"
-                android:text="1.18" />
+                android:text="1.18"
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -121,7 +122,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="right"
-                android:text="0.75" />
+                android:text="0.75"
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -143,7 +145,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="right"
-                android:text="59.3%" />
+                android:text="59.3%"
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -165,7 +168,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="right"
-                android:text="47" />
+                android:text="47"
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -187,7 +191,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="right"
-                android:text="0.69" />
+                android:text="0.69"
+                android:textSize="24sp" />
         </TableRow>
         <TableRow
             android:layout_width="match_parent"
@@ -208,7 +213,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="right"
-                android:text="68.5%" />
+                android:text="68.5%"
+                android:textSize="24sp" />
         </TableRow>
     </TableLayout>
 

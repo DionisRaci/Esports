@@ -218,7 +218,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    tools:srcCompat="@drawable/Fli1t_profile" />
+                    tools:srcCompat="@drawable/Fli1t_profile"/>
 
                 <TextView
                     android:id="@+id/player5"
